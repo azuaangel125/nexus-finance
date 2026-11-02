@@ -1,5 +1,5 @@
 /* NEXUS Service Worker — caché offline del shell y fuentes */
-const CACHE = 'nexus-v1';
+const CACHE = 'nexus-v1.1.1';
 const ASSETS = [
   './',
   './nexus_redesign.html',
